@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ummarportfolio.me/sitemap.xml
+
+Sitemap: https://muhammad-ummar.vercel.app/sitemap.xml
