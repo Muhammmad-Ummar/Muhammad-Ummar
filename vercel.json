@@ -1,8 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "/:1"
+      "source": "/old",
+      "destination": "/new",
+      "permanent": true
     }
   ]
 }
