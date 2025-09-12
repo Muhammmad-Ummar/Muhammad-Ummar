@@ -1,0 +1,23 @@
+{
+  "build": {
+    "env": {
+      "NODE_VERSION": "18"
+    }
+  },
+   "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "www.ummarportfolio.me" }
+      ],
+      "destination": "https://ummarportfolio.me/:1",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
