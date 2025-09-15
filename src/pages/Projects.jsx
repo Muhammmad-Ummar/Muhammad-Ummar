@@ -8,9 +8,9 @@ const projectData = [
     title: "Portfolio Website",
     description: "My personal portfolio built with React and Tailwind CSS showcasing my skills and projects.",
     image: "https://mir-s3-cdn-cf.behance.net/projects/404/d08c50224396507.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
-    link: "https://yourportfolio.com",
+    link: "https://ummarportfolio.me",
     tags: ["React", "Tailwind CSS", "Framer Motion"],
-    isLive: false
+    isLive: true,
   },
   {
     title: "E-Commerce App",
