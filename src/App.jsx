@@ -29,8 +29,9 @@ function App() {
           <Projects />
           {/* <Certificates/> */}
           <Contact />
-          <Rating />
+      
           <GitHubTimeLine />
+              <Rating />
           <Footer />
 
         </>
